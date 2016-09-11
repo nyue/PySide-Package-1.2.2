@@ -17,5 +17,11 @@ were taken from http://wiki.qt.io/PySide
 + PSP_PYTHON_LIBRARY Python link library
 + PSP_QT_QMAKE_EXECUTABLE Qt's qmake executable
 
+## Platform
+
++ CentOS 6.4
++ CentOS 7.2
++ Ubuntu 14.04
+
 ## Notes :
 No plans to make this build on Windows until Python is easily buildable from source for different Windows compiler via CMake
